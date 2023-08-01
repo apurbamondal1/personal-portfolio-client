@@ -1,0 +1,47 @@
+.d-flex{
+    display: flex;
+    column-gap: 10px;
+   
+}
+.skills{
+    padding-top: 180px;
+}
+/* .range {
+    border: 1px solid rgb(16, 198, 49);
+} */
+/* .skill{
+   
+   font-size: 30px;
+   color: aqua;
+   margin-left: 580px;
+   margin-right: 580px;
+   padding-left: 35px;
+   border: 2px solid ;
+   border-width: 100%;
+   background-color: rgb(7, 7, 7);
+
+  
+   
+}
+.myskill{
+    font-size: 30px;
+    color: aqua;
+   
+     padding-left: 130px;
+  
+    border-width: 100%;
+    background-color: rgb(7, 7, 7);
+
+} */
+.parametre{
+    border: 2px solid rgb(11, 231, 110);
+    height: 70px;
+  
+}
+.main{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    column-gap: 20px;
+    background-color: rgb(14, 14, 14);
+  
+}

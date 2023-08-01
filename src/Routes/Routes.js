@@ -1,24 +1,23 @@
-import { createBrowserRouter } from "react-router-dom";
-import Design from "../Home/Home";
-import Footer from "../Footer/Footer";
-import Main from "../Main/Main";
+// import { createBrowserRouter } from "react-router-dom";
+// import Home from "../Home/Home";
+// import Skill from "../Skill/Skill";
 
-export const router = createBrowserRouter([
-    {
-      path: '/',
-      element:<Main></Main>,
-      children: [
+// export const router = createBrowserRouter([
+//     {
+//       path: '/',
+//       element:<Home></Home>,
+//     },
+
+           
         // {
-        //     path:'/',
-        //     element:<Design></Design>
+        //     path:'/skill',
+        //     element:<Skill></Skill>
         // },
         // {
         //     path:'/footer',
         //     element:<Footer></Footer>
-        //   }      
-      ]
+        //   } 
    
-}
-     
-  ]);
+  
+//   ]);
   

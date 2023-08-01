@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image" : "https://i.ibb.co/QdT8Gpk/Screenshot-9.png",
+        "name" : "Doctor Portal(Full-Stack)",
+        "live" : "https://doctors-portal-49531.web.app/",
+        "description" :"A complete doctor portal website.Where use Firebase Authentication system and User Role and Admin role also use private route and admin route.user can visit the website,book Dr. appointment with login and Admin can add Dr. manage Dr.User can payment with stripe.",
+        "technology" :"React js,Mongodb,Node js,Express js,Firebase,Vercel,Github,Json webtoken",
+        "server" : "https://github.com/apurbamondal1/medical-portal-server",
+        "client" : "https://github.com/apurbamondal1/medical-portal-client"
+
+           
+        
+       
+
+    },
+    {
+        "id": 2,
+        "image" : "https://i.ibb.co/Wgw0X7x/Screenshot-11.png",
+        "name" : "(small-paws)E-commerce(Full-stack)",
+        "live" : "https://small-paws.web.app/",
+        "description" :"A complete E-commerce website with firebase Authentication  system.You can order and track your order and remove any item to go to the track order page.",
+        "technology" :"React js,Mongodb,Node js,Express js,Firebase,Vercel,Github,Json webtoken",
+        "server" : "https://github.com/apurbamondal1/small-paws-server",
+        "client" : "https://github.com/apurbamondal1/small-paws"
+
+
+    },
+    {
+        "id": 3,
+        "image" : "https://i.ibb.co/8PRBVyq/Screenshot-10.png",
+        "name" : "Crack Quize (Fronted React-Route focused)",
+        "live" : "https://deft-sopapillas-234d65.netlify.app/",
+        "description" :"This is a quize website built by fronted route focused .You can give quize answers to go to any catagory and also know the correct answer as well.",
+        "technology" :"React js",
+        "server" : "",
+        "client" : ""
+
+    }
+
+   
+]
