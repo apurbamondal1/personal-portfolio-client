@@ -14,7 +14,7 @@ const Project = () => {
     }, [])
     console.warn( "project", project)
     return (
-       <div className='mt-16'>
+       <div className='mt-16' data-aos="fade-up" data-aos-duration="3000">
         <div className='text-center'>
         {/* <h5 className='projects lg:hidden text-align-ce'>Projects</h5> */}
         <h5 className='text-xl font-bold text-secondary uppercase'>Projects</h5>

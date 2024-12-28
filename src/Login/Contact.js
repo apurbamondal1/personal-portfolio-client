@@ -1,5 +1,4 @@
 import React, { useContext } from 'react';
-import './Contact.css';
 import { useForm } from "react-hook-form";
 import { AuthContext } from '../AuthProvider/AuthProvider';
 
@@ -31,7 +30,7 @@ if (User !== null) {
 
 
     return (
-        <div name='Contact'  className=' contacts parent'>
+        <div name='Contact'  className=' contacts parent' data-aos="fade-up" data-aos-duration="3000">
                  <div className='h-[500px] flex justify-center items-center'>
             <div className='w-96 p-7'>
                 <h2 className='text-xl text-center'>Contact Form</h2>

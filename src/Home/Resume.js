@@ -20,7 +20,7 @@ import React from 'react';
 const Resume = () => {
     return (
         <div name='Resume'>
-            <a href='https://drive.google.com/file/d/1dSI22XvruV_UQzhHfHtux8lJ76-o5Rm9/view?usp=drive_link'></a>
+            <a href='https://drive.google.com/file/d/10lf9ZMBX9kNrhmi9q0w97cvAqa9EU4Pd/view?usp=sharinghttps://drive.google.com/file/d/10lf9ZMBX9kNrhmi9q0w97cvAqa9EU4Pd/view'></a>
         </div>
     );
 };

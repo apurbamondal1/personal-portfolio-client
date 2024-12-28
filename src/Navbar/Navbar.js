@@ -36,7 +36,7 @@ const links = [
 ]
 
     return (
-        <div className='flex justify-between items-centre w-full h-20 px-4 text-white bg-black navbar fixed'>
+        <div className='flex justify-between items-centre w-full h-20 px-4 text-white bg-black navbar fixed fade-up'>
           <div>
             <h1 className='text-2xl'> Apurba</h1>
           </div>
@@ -63,7 +63,7 @@ const links = [
   </div>
 </div> */}
 
-<a href='https://drive.google.com/file/d/1j7rYGvPPDpiwP3TgmsPcUyHwc9v_RLmX/view?usp=drive_link'><button className='btn btn-primary ml-20 lg:hidden'>Resume</button></a>
+<a href='https://drive.google.com/file/d/10lf9ZMBX9kNrhmi9q0w97cvAqa9EU4Pd/view?usp=drive_link'><button className='btn btn-primary ml-20 lg:hidden'>Resume</button></a>
     <div className='dropdown' >
     <label tabIndex={0} className="btn btn-ghost lg:hidden">
         <svg xmlns="http://www.w3.org/2000/svg" className="h-7 w-14" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
@@ -93,7 +93,7 @@ const links = [
  
 </ul>
 </div>
-<a href='https://drive.google.com/file/d/1dSI22XvruV_UQzhHfHtux8lJ76-o5Rm9/view?usp=drive_link'><button className='hidden lg:block button btn btn-accent'>Resume</button></a>
+<a href='https://drive.google.com/file/d/10lf9ZMBX9kNrhmi9q0w97cvAqa9EU4Pd/view?usp=drive_link'><button className='hidden lg:block button btn btn-accent'>Resume</button></a>
 
         </div>
     );

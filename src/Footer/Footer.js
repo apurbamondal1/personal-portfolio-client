@@ -14,7 +14,7 @@ const Footer = () => {
 
 
   return (
-    <div>
+    <div data-aos="fade-up" data-aos-duration="3000">
       <footer className="footer footer-center p-10 bg-base-200 text-base-content rounded">
   <div className="grid grid-flow-col gap-4">
    
