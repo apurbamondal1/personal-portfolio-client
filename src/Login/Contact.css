@@ -11,3 +11,14 @@
 /* .contacts{
    padding-top: 180px;
 } */
+
+.no-hover {
+  background-color: #28a745 !important;
+  color: white !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.no-hover:hover {
+  background-color: #28a745 !important;
+}
